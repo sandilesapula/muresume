@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Sandile Sapula",
+    "occupation": "Freelance Web Developer",
+    "description": "In code i TRUST!",
+    "image": "profilepic.jpg",
+    "bio": "An ambitious problem solver with a passion for online businesses, and who would like to join a team of like-minded developers. I have much experience of creating both logical and innovative solutions to complex web challenges. I have keen interest in technology and mobile applications plus user experience.",
+    "contactmessage": "Get in touch with me!",
+    "email": "davidsandilesapula.@gmail.com",
+    "phone": "+27 873346337",
+    "address": {
+      "Section": "Pimville",
+      "city": "Soweto",
+      "Province": "Gauteng",
+      "zip": "1809"
+    },
+    "website": "https://www.davidsapula.com",
+    "resumedownload": "https://drive.google.com/file/d/16r8zfj5N8v9OEydvDxKqnVBpQtg0Qz30/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCLswfgQlyQpP8ZEex6CmSrw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/david.sapula.79",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/david-sapula-5b5430161/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/davidsapula/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sandilesapula",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/DavidSapula1",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of South Africa - ZA",
+        "degree": "Computer Science Engineering",
+        "graduated": "1998/1999",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Home Store",
+        "title": "Store Manager",
+        "years": "May 2015 - Present",
+        "description": "Developing Web Apps along the way."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Whatsapp Clone (React JS)",
+        "category": "",
+        "image": "whatsapp.png",
+        "url": "https://whatsappclone-cab7a.firebaseapp.com/"
+      },
+      {
+        "title": "sapulaGram (React JS)",
+        "category": "",
+        "image": "sapulaGram.png",
+        "url": "https://firegram-40cba.firebaseapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
